@@ -1,5 +1,7 @@
-# Formulario-de-cadastro (https://pedro01010.github.io/Formulario-de-cadastro-SQL/)
+# Formulario-de-cadastro 
 Formulário construindo afins de treino com conexão ao banco de dados MySQL, com php!
+<br>
+https://pedro01010.github.io/Formulario-de-cadastro-SQL/
 Trabalho realizado pra enviar informações pro BC onde na página de login se cria uma verificação de dados pra enfim liberar o acesso!
 <br>
 
