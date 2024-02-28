@@ -9,7 +9,7 @@ Trabalho realizado pra enviar informações pro BC onde na página de login se c
 <br>
 <br>
 
-# Tabela MySQL
+# MySQL
 
 Com os dados que receberá do submit do fomrulário
 <br>
